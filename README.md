@@ -3,7 +3,7 @@
 
  ## Installation
 
-Launch this script on a Windows computer by double cick on the .bat file.
+Launch this script on a Windows computer by double click on the .bat file.
 
 ## Features
 
