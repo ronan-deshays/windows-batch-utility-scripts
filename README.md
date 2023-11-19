@@ -11,7 +11,7 @@ The scripts available on this repository are listed and explained below.
 
 ### Backup all OneDrive folders
 
-*related file : [save_all_OneDrive_folders.bat](https://github.com/ronan-deshays/windows-batch-utility-scripts/blob/main/save_all_OneDrive_folders.bat) - download latest release [here](https://github.com/ronan-deshays/windows-batch-utility-scripts/releases/latest/download/save_all_OneDrive_folders.bat) *
+*related file : [save_all_OneDrive_folders.bat](https://github.com/ronan-deshays/windows-batch-utility-scripts/blob/main/save_all_OneDrive_folders.bat) - download latest release [here](https://github.com/ronan-deshays/windows-batch-utility-scripts/releases/latest/download/save_all_OneDrive_folders.bat)*
 
 This script creates an offline backup of all OneDrive folders present in the active user folder.
 
