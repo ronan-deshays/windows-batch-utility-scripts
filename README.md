@@ -19,4 +19,14 @@ This script creates an offline backup of all OneDrive folders present in the act
 
 **Known limitations** : this script only works with "common" "real" files. For example, some versions of OneNote notebooks will not be saved;
 
+### Backup SD card
 
+*related file : [save_SD_card.bat](https://github.com/ronan-deshays/windows-batch-utility-scripts/blob/main/save_SD_card.bat) - download latest release [here](https://github.com/ronan-deshays/windows-batch-utility-scripts/releases/latest/download/save_SD_card.bat)*
+
+This script mirrors a SD card (or any disk drive) in a folder created on its current location. 
+
+⚠️ Mirror means that it will  **delete files** in mirror folder that have been deleted on SD card.
+
+💡 Mirror means that it will copy only new files, so it avoid copying again and again the same files.
+
+💡 Recommended workflow : use it as an offline copy of your SD card, so make a copy elsewhere on your computer of the files you are using in your projects, to prevent them from been automatically deleted on next run of script.
