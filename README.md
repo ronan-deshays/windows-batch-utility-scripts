@@ -15,9 +15,9 @@ The scripts available on this repository are listed and explained below.
 
 This script creates an offline backup of all OneDrive folders present in the active user folder.
 
-**Recommended OneDrive settings** : always download all files. If OneDrive is configured on "save space" or "on demand files", it will redownload each file at each run of the script.
+💡 **Recommended OneDrive settings** : always download all files. If OneDrive is configured on "save space" or "on demand files", it will redownload each file at each run of the script.
 
-**Known limitations** : this script only works with "common" "real" files. For example, some versions of OneNote notebooks will not be saved;
+⚠️ **Known limitations** : this script only works with "common" "real" files. For example, some versions of OneNote notebooks will not be saved;
 
 ### Backup SD card
 
